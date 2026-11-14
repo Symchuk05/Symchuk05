@@ -4,10 +4,14 @@ Full-Stack Developer - Web, Backend, Frontend and Automation
 
 Building reliable web applications, APIs, and automation tools.
 
+## Trophies
+
+![Trophies](https://github-trophies.vercel.app/?username=Symchuk05&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=7)
+
 ## Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -42,30 +46,3 @@ Building reliable web applications, APIs, and automation tools.
 
 - Website: https://s-dev.tech
 - Email: contact@s-dev.tech
-<!-- tweak 1 -->
-
-<!-- tweak 2 -->
-
-<!-- tweak 3 -->
-
-<!-- tweak 4 -->
-
-<!-- tweak 5 -->
-
-<!-- tweak 6 -->
-
-<!-- tweak 7 -->
-
-<!-- tweak 8 -->
-
-<!-- tweak 9 -->
-
-<!-- tweak 10 -->
-
-<!-- tweak 11 -->
-
-<!-- tweak 12 -->
-
-<!-- tweak 16 -->
-
-<!-- tweak 17 -->
