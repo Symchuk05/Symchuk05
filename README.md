@@ -1,6 +1,6 @@
 # Symchuk Dev
 
-Full-Stack Developer · Web, Backend, Frontend & Automation
+Full-Stack Developer - Web, Backend, Frontend and Automation
 
 Building reliable web applications, APIs, and automation tools.
 
@@ -16,23 +16,20 @@ Building reliable web applications, APIs, and automation tools.
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Symchuk05&show_icons=true&theme=transparent&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Symchuk05&layout=compact&theme=transparent&hide_border=true)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Symchuk05&theme=transparent)
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Symchuk05&theme=transparent)
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Symchuk05&theme=transparent)
+
+![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=Symchuk05&theme=transparent&hide_border=true)
 
 ## Projects
 
-- **ProStock** — warehouse management system (FastAPI + React + PostgreSQL)
-- **Cadastre Map & Processing API** — unified Ukrainian cadastral dataset service
-- **KINO UA** — online cinema platform with 116k+ catalog
+- **ProStock** - warehouse management system (FastAPI + React + PostgreSQL)
+- **Cadastre Map and Processing API** - unified Ukrainian cadastral dataset service
+- **KINO UA** - online cinema platform with 116k+ catalog
 
 ## Contact
 
 - Website: https://s-dev.tech
 - Email: contact@s-dev.tech
-<!-- pair 1 -->
-
-<!-- pair 2 -->
-
-<!-- extra -->
-
-<!-- coauth -->
