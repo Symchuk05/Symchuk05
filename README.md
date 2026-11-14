@@ -4,6 +4,10 @@ Full-Stack Developer - Web, Backend, Frontend and Automation
 
 Building reliable web applications, APIs, and automation tools.
 
+## Achievements
+
+![GitHub Achievements](https://img.shields.io/badge/Achievements-7%2B-2ea44f?style=for-the-badge&logo=github&logoColor=white)
+
 ## Trophies
 
 ![Trophies](https://github-trophies.vercel.app/?username=Symchuk05&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=7)
@@ -46,4 +50,5 @@ Building reliable web applications, APIs, and automation tools.
 
 - Website: https://s-dev.tech
 - Email: contact@s-dev.tech
-<!-- coauth 2 -->
+
+<!-- coauth 5 -->
